@@ -59,7 +59,7 @@
     "copy-dir": "^0.3.0",
     "debug": "^3.1.0",
     "diff": "^3.5.0",
-    "dockerode": "^2.5.7",
+    "dockerode": "^4.0.5",
     "draftlog": "^1.0.12",
     "figlet": "^1.4.0",
     "filesize": "^3.5.11",
